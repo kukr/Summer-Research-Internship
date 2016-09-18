@@ -1,0 +1,52 @@
+bin/JN5148/iSenseDemoApp.o: src/iSenseDemoApp.cpp \
+  ../../iSense/src/isense/config.h ../../iSense/src/isense/application.h \
+  ../../iSense/src/isense/isense_object.h ../../iSense/src/isense/types.h \
+  ../../iSense/src/isense/platforms/jennic/jennic_types.h \
+  ../../iSense/src/isense/os.h ../../iSense/src/isense/timeout_handler.h \
+  ../../iSense/src/isense/class_name.h \
+  ../../iSense/src/isense/util/util.h \
+  ../../iSense/lib/jennic/5148_1v4/Components/HardwareApi/Include/AppHardwareApi.h \
+  ../../iSense/lib/jennic/5148_1v4/Components/Common/Include/jendefs.h \
+  ../../iSense/lib/jennic/5148_1v4/Components/HardwareApi/Include/AppHardwareApi_JN514x.h \
+  ../../iSense/src/isense/link_layer_interface.h \
+  ../../iSense/src/isense/time.h ../../iSense/src/isense/sleep_handler.h \
+  ../../iSense/src/isense/radio.h ../../iSense/src/isense/simple_memory.h \
+  ../../iSense/src/isense/util/pseudo_random_number_generator.h \
+  ../../iSense/src/isense/task.h ../../iSense/src/isense/isense.h \
+  ../../iSense/src/isense/uart.h \
+  ../../iSense/src/isense/power_management.h \
+  ../../iSense/src/isense/data_handlers.h \
+  ../../iSense/src/isense/dispatcher.h \
+  ../../iSense/src/isense/util/queue.h \
+  ../../iSense/src/isense/util/string/memmove.h \
+  ../../iSense/src/isense/isense_memory.h \
+  ../../iSense/src/isense/modules/core_module/core_module.h \
+  ../../iSense/src/isense/gpio.h \
+  ../../iSense/src/isense/protocols/routing/neighborhood_monitor.h \
+  ../../iSense/src/isense/protocols/ip/version6/icmpv6.h \
+  ../../iSense/src/isense/protocols/ip/network_packet.h \
+  ../../iSense/src/isense/protocols/ip/types.h \
+  ../../iSense/src/isense/protocols/ip/ip_address.h \
+  ../../iSense/src/isense/protocols/ip/version6/ipv6_address.h \
+  ../../iSense/src/isense/protocols/ip/ip_header.h \
+  ../../iSense/src/isense/protocols/ip/version6/ipv6_header.h \
+  ../../iSense/src/isense/protocols/ip/udp.h \
+  ../../iSense/src/isense/protocols/ip/ip.h \
+  ../../iSense/src/isense/protocols/ip/version6/ipv6.h \
+  ../../iSense/src/isense/protocols/ip/version6/ip_config.h \
+  ../../iSense/src/isense/protocols/ip/version6/ipv6_network_interface.h \
+  ../../iSense/src/isense/protocols/ip/version6/address_list_entry.h \
+  ../../iSense/src/isense/protocols/ip/version6/nd.h \
+  ../../iSense/src/isense/protocols/ip/version6/neighbor_cache.h \
+  ../../iSense/src/isense/protocols/ip/version6/context_manager.h \
+  ../../iSense/src/isense/protocols/ip/periodic_timeout.h \
+  ../../iSense/src/isense/singleton_object.h \
+  ../../iSense/src/isense/protocols/ip/version6/ip_routing.h \
+  ../../iSense/src/isense/protocols/ip/version6/forwarding_table.h \
+  ../../iSense/src/isense/protocols/routing/history.h \
+  ../../iSense/src/isense/protocols/ip/tcp.h \
+  ../../iSense/src/isense/protocols/ip/version6/new_dymo.h \
+  ../../iSense/src/isense/protocols/ip/version6/sixlowpan_network_interface.h \
+  ../../iSense/src/isense/protocols/routing/routing.h \
+  ../../iSense/src/isense/protocols/routing/flooding.h \
+  ../../iSense/src/isense/protocols/time_sync/confirm_time.h
