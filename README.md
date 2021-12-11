@@ -14,10 +14,10 @@ Go through the below video to get further insight on Ant Colony optimzation algo
 
 
 ## Video
-[![ACO VIDEO](https://kukr.github.io/Summer-Internship/ACO.jpg)](https://kukr.github.io/Summer-Internship/Ant_Colony_Optimization.mp4)
+[![ACO VIDEO](https://github.com/kukr/Summer-Internship/blob/master/assets/ACO.jpg)](https://github.com/kukr/Summer-Internship/blob/master/assets/Ant_Colony_Optimization.mp4)
 
 ## Conference certificate
-<img src="https://kukr.github.io/Summer-Internship/SOCTA_certificate.jpg" />
+<img src="https://github.com/kukr/Summer-Internship/blob/master/assets/SOCTA_certificate.jpg" />
 
 ## Thanks
 Feel free to contact me for any doubts @ [Kakarla Uday Kanth Reddy](https://www.facebook.com/udaykanth.reddy.10)<br>
