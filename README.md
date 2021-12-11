@@ -1,4 +1,4 @@
-# Summer-Internship
+# Summer-Research-Internship
 
 Wireless Sensor Networks have captured the attention of researchers and students over the past decade because of the diverse applications they support and the flexibility of network deployment options they provide. These advantages, along with the remarkable advances in sensor technology, make WSNs a favourite option for many tracking and monitoring applications. In such applications, sensors nodes can collaboratively monitor the network environment and report real-time information about the monitored phenomenon.
 
